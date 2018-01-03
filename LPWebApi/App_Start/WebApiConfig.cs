@@ -20,7 +20,7 @@ namespace LPWebApi
                 defaults: new { id = RouteParameter.Optional }
             );
 
-            SwaggerConfig.Register();
+            //SwaggerConfig.Register();
         }
     }
 }
